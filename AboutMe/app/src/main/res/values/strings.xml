@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Beatriz Reis</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Beatriz
+    \n\nI\'m a aerospace engineer currently learning android development.
+    \n\nI like to learn new idioms like japanese and english, and also new programming languages such as Kotlin and Java.
+    \n\nI like to spend my free time playing online games with my friends and family or reading webtoons. I also love watching new movies and tv series with my boyfriend.
+    \n\nIn these last two years, I\'ve been making extra effort to be organized and to follow a routine.</string>
+    <string name="pencil">Pencil</string>
+    <string name="green_square">Green square</string>
+</resources>
